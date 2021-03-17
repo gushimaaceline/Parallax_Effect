@@ -1,0 +1,34 @@
+body {
+    background-image: url(./images/Dhouse.jpg); 
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+
+}
+h1 {
+    text-align:center;
+    font-style: normal;
+    size: 50px;
+    color:whitesmoke;
+    padding-right: 8%;
+}
+li{
+
+list-style-type: none;
+padding-left: 40%;
+color:tomato;
+font-family:sans-serif;
+font-weight: bold;
+font-style:normal;
+}
+/* ul{ */
+    /* align-items:center; */
+
+/* } */
+/* .list{
+    color: tomato;
+    text-align: justify;
+    
+    padding-top: 
+    0.5px;
+} */
